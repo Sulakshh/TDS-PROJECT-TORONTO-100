@@ -2,7 +2,7 @@ import requests
 import csv
 
 # Set up API token and headers
-api_token = "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"  # PAT
+api_token = "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"  # PAT
 headers = {
     "Authorization": f"token {api_token}",
     "Accept": "application/vnd.github+json",
